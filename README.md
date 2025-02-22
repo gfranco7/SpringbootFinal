@@ -16,6 +16,8 @@ A modern CRUD software to manage booking meetings. ✨
 - [Installation](#-installation)
 - [Interface Screenshots](#-interface-screenshots)
 - [ER Diagram](#-ER-Diagram)
+- [SQL Scrip](#-SQL-Scrip)
+- [Swagger](#-Swagger)
 - [Creators](#-creators)
 
 ---
@@ -75,6 +77,8 @@ Placeholder example:
 
 ## SQL Script
 ![carbon](https://github.com/user-attachments/assets/97a4a69f-a140-4789-a24b-0d9532d38046)
+
+## Swagger
 
 
 👥 Meet the Creator
