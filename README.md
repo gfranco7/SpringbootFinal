@@ -64,7 +64,7 @@ Experience Coworking now!
 
 | Environment | URL | Status |
 |-------------|-----|--------|
-| Frontend | [localhost:8081](Vercel Deployment) | 🟢 Operational |
+| Frontend | [localhost:8081] | 🟢 Operational |
 | Backend | Apache Tomcat Server | 🔧 Maintenance |
 
 📸 Interface Screenshots
