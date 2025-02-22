@@ -15,6 +15,7 @@ A modern CRUD software to manage booking meetings. ✨
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Interface Screenshots](#-interface-screenshots)
+- [ER Diagram](#-ER-Diagram)
 - [Creators](#-creators)
 
 ---
@@ -68,6 +69,12 @@ Experience Coworking now!
 This section will showcase images of Alpha Centauri's interface.
 Placeholder example:
 
+
+## ER Diagram
+![image](https://github.com/user-attachments/assets/aa8da215-ed93-44c3-be37-9ec66041b30b)
+
+## SQL Script
+![carbon](https://github.com/user-attachments/assets/97a4a69f-a140-4789-a24b-0d9532d38046)
 
 
 👥 Meet the Creator
