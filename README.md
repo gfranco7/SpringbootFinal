@@ -80,6 +80,9 @@ Placeholder example:
 
 # Swagger
 
+http://localhost:8081/swagger-ui/index.html#/
+![image](https://github.com/user-attachments/assets/ed96c61d-29ac-4641-a002-a474e1a1577c)
+
 
 👥 Meet the Creator
 
